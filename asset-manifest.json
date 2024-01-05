@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/React-portfolio-new/static/css/main.a59b88a1.css",
+    "main.js": "/React-portfolio-new/static/js/main.3f52510a.js",
+    "static/js/787.128fc6e9.chunk.js": "/React-portfolio-new/static/js/787.128fc6e9.chunk.js",
+    "static/media/P_calculator.png": "/React-portfolio-new/static/media/P_calculator.c7ddc14cc73d914c49ba.png",
+    "static/media/JS_Guvi.png": "/React-portfolio-new/static/media/JS_Guvi.abb292864283fbf18f1b.png",
+    "static/media/P_social_media.png": "/React-portfolio-new/static/media/P_social_media.6a73de5552623a8c9f3e.png",
+    "static/media/C_Everyone.png": "/React-portfolio-new/static/media/C_Everyone.cfd5519d5f6733326201.png",
+    "static/media/CERA_serverJS.png": "/React-portfolio-new/static/media/CERA_serverJS.6ba30f79a93778454c46.png",
+    "static/media/P_guess_word.png": "/React-portfolio-new/static/media/P_guess_word.82c6a5c3db41bf58c423.png",
+    "static/media/CNCPP.png": "/React-portfolio-new/static/media/CNCPP.df0272b65cff617bee06.png",
+    "static/media/infosys.png": "/React-portfolio-new/static/media/infosys.2af1e9b0d438b61a028f.png",
+    "static/media/P_sudoku_solver.png": "/React-portfolio-new/static/media/P_sudoku_solver.67ae799d1c49d1234d8e.png",
+    "static/media/Lamicons.png": "/React-portfolio-new/static/media/Lamicons.8c3844fe4b6816e04b36.png",
+    "static/media/portfolio.png": "/React-portfolio-new/static/media/portfolio.c09297e98a53835f0020.png",
+    "static/media/GraphicsD.png": "/React-portfolio-new/static/media/GraphicsD.38f92262a8bf87ac7efd.png",
+    "static/media/Python.png": "/React-portfolio-new/static/media/Python.2066788a25f176bbd2dd.png",
+    "static/media/GFG_DSA.png": "/React-portfolio-new/static/media/GFG_DSA.9516b9920b90d852043f.png",
+    "static/media/P_weather_application.png": "/React-portfolio-new/static/media/P_weather_application.1dbcd95b7c97a43e2425.png",
+    "static/media/CPP_Udemy.png": "/React-portfolio-new/static/media/CPP_Udemy.01ec8bda798784a705ca.png",
+    "static/media/WEBD_Udemy.png": "/React-portfolio-new/static/media/WEBD_Udemy.dc975dcaf9ac0fb4c07f.png",
+    "index.html": "/React-portfolio-new/index.html",
+    "main.a59b88a1.css.map": "/React-portfolio-new/static/css/main.a59b88a1.css.map",
+    "main.3f52510a.js.map": "/React-portfolio-new/static/js/main.3f52510a.js.map",
+    "787.128fc6e9.chunk.js.map": "/React-portfolio-new/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a59b88a1.css",
+    "static/js/main.3f52510a.js"
+  ]
+}
