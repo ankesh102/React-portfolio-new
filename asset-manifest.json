@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-portfolio-new/static/css/main.a59b88a1.css",
-    "main.js": "/React-portfolio-new/static/js/main.3f52510a.js",
+    "main.js": "/React-portfolio-new/static/js/main.3dc78b67.js",
     "static/js/787.128fc6e9.chunk.js": "/React-portfolio-new/static/js/787.128fc6e9.chunk.js",
     "static/media/P_calculator.png": "/React-portfolio-new/static/media/P_calculator.c7ddc14cc73d914c49ba.png",
     "static/media/JS_Guvi.png": "/React-portfolio-new/static/media/JS_Guvi.abb292864283fbf18f1b.png",
@@ -22,11 +22,11 @@
     "static/media/WEBD_Udemy.png": "/React-portfolio-new/static/media/WEBD_Udemy.dc975dcaf9ac0fb4c07f.png",
     "index.html": "/React-portfolio-new/index.html",
     "main.a59b88a1.css.map": "/React-portfolio-new/static/css/main.a59b88a1.css.map",
-    "main.3f52510a.js.map": "/React-portfolio-new/static/js/main.3f52510a.js.map",
+    "main.3dc78b67.js.map": "/React-portfolio-new/static/js/main.3dc78b67.js.map",
     "787.128fc6e9.chunk.js.map": "/React-portfolio-new/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a59b88a1.css",
-    "static/js/main.3f52510a.js"
+    "static/js/main.3dc78b67.js"
   ]
 }
